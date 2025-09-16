@@ -41,9 +41,6 @@ DSA-Journey/
 ├── 📅 progress.md → Daily/weekly progress tracker
 └── 📄 README.md → You are here 😃
 
-yaml
-Copy code
-
 ---
 
 ## 📅 Progress Tracker
@@ -54,9 +51,6 @@ Sample tracking format:
 ✅ Day 2: Strings fundamentals → 3 problems solved
 ✅ Day 3: Linked List intro → 4 problems solved
 ⬜ Day 4: Updating soon...
-
-yaml
-Copy code
 
 ---
 
@@ -73,18 +67,18 @@ Copy code
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR-USERNAME&theme=tokyonight" alt="GitHub Streak" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=shahdhruvp16&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shahdhruvp16&theme=tokyonight" alt="GitHub Streak" width="48%"/>
 </p>
 
 ---
 
 ## 🏆 Repository Badges
 
-![GitHub repo size](https://img.shields.io/github/repo-size/YOUR-USERNAME/DSA-Journey?color=green&style=for-the-badge)  
-![GitHub last commit](https://img.shields.io/github/last-commit/YOUR-USERNAME/DSA-Journey?color=yellow&style=for-the-badge)  
-![GitHub issues](https://img.shields.io/github/issues/YOUR-USERNAME/DSA-Journey?style=for-the-badge&color=red)  
-![GitHub stars](https://img.shields.io/github/stars/YOUR-USERNAME/DSA-Journey?style=for-the-badge&color=blue)  
+![GitHub repo size](https://img.shields.io/github/repo-size/shahdhruvp16/DSA-LEETCODE-IN-CPP?color=green&style=for-the-badge)  
+![GitHub last commit](https://img.shields.io/github/last-commit/shahdhruvp16/DSA-LEETCODE-IN-CPP?color=yellow&style=for-the-badge)  
+![GitHub issues](https://img.shields.io/github/issues/shahdhruvp16/DSA-LEETCODE-IN-CPP?style=for-the-badge&color=red)  
+![GitHub stars](https://img.shields.io/github/stars/shahdhruvp16/DSA-LEETCODE-IN-CPP?style=for-the-badge&color=blue)  
 
 ---
 
@@ -99,7 +93,7 @@ Learning together makes it even better 💡
 📌 4th Year Computer Science Student | Passionate about DSA & AI/ML & WEB DEV
 
 <p align="left">
-  <a href="https://github.com/YOUR-USERNAME"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://github.com/shahdhruvp16E"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
   <a href="https://www.linkedin.com/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </p>
 
