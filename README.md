@@ -17,40 +17,11 @@ The main goal is **discipline & growth** in problem-solving skills 🚀
 
 ---
 
-## 🗂️ Repository Structure
-
-DSA-Journey/
-│
-├── 📘 Daily-Learning/ → Notes & concepts I study each day
-│ ├── Day-01.md
-│ ├── Day-02.md
-│ └── ...
-│
-├── 💻 Daily-Practice/ → Topic-wise practice problems
-│ ├── Arrays/
-│ ├── Strings/
-│ ├── Linked-List/
-│ └── ...
-│
-├── 🌍 Platform-Solutions/ → Platform-specific solutions
-│ ├── LeetCode/
-│ ├── Codeforces/
-│ ├── GFG/
-│ └── HackerRank/
-│
-├── 📅 progress.md → Daily/weekly progress tracker
-└── 📄 README.md → You are here 😃
-
----
-
 ## 📅 Progress Tracker
 👉 Check detailed progress in → [progress.md](./progress.md)  
 
 Sample tracking format:
-✅ Day 1: Arrays basics → 5 problems solved
-✅ Day 2: Strings fundamentals → 3 problems solved
-✅ Day 3: Linked List intro → 4 problems solved
-⬜ Day 4: Updating soon...
+✅ Day 1: 
 
 ---
 
