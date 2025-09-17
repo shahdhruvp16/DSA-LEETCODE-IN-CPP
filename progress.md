@@ -9,7 +9,7 @@ Here, I log my **daily learning**, **practice problems**, and **platform progres
 
 | Day | Date       | Topic / Focus      | Problems Solved | Notes / Learnings | Status |
 |-----|------------|--------------------|-----------------|-------------------|--------|
-| 1   | YYYY-MM-DD |       |             |  |  |
+| 1   | 2025-09-17 | Basic of Languages |       ✅8      | Learn Basic of programming like I/O, Conditional Statements, Loops, Time Complexity & Space Complexity |    ✔️ Completed    |
 
 ---
 
